@@ -7,16 +7,16 @@
       "id": "fabularis_tools",
       "name": "Fabularis Tools",
       "tagline": "Strumenti personalizzati Fabularis Lab",
-      "version": "1.1.8",
+      "version": "1.1.9",
       "type": "add-on",
       "maintainer": "Fabularis Lab",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "5.0.0",
-      "archive_url": "./fabularis_tools-1.1.8.zip",
-      "archive_size": 18236,
-      "archive_hash": "sha256:5ecb3c4dd9dc3fef8acd9c80981ac38f599777a73590a6b57133b2c585eaa551"
+      "archive_url": "./fabularis_tools-1.1.9.zip",
+      "archive_size": 20860,
+      "archive_hash": "sha256:5f2f345dd0f945c878d7a792c19c4ee749a6db1aa24809f812c870a6f7f614a6"
     }
   ]
 }
